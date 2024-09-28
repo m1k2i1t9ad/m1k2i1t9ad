@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m1k2i1t9ad
+- 👋 Hi, My name is Michael
 - 👀 I’m interested in ethical-hacking and web-development
 - 🌱 I’m currently learning in AAU 
 - 📫 How to reach me michaelt5593@gmail.com
