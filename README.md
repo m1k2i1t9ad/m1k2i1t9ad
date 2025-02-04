@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Michael
-- 👀 I’m interested in ethical-hacking and web-development
+- 👀 I’m interested in web-development,Machine learning,AI,block chain...
 - 🌱 I’m currently learning in AAU 
 - 📫 How to reach me michaelt5593@gmail.com
 
